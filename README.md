@@ -29,7 +29,7 @@ NOTE: WaW weapons cannot be upgraded because the map doesn't have them.
 
 ## Installation
 
-Download the [latest release](https://github.com/Nahelam/t5sp-nacht-srcm/releases/latest/), extract the ZIP archive content to the T5 storage folder of your dedicated server and you're good to go.
+Download the [latest release](https://github.com/Nahelam/t5sp-nacht-srcm/releases/latest/), extract the ZIP archive content to your T5 storage folder and you're good to go.
 
 Default T5 storage folder on Windows: `%LOCALAPPDATA%\Plutonium\storage\t5`
 
