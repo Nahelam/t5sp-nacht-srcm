@@ -46,7 +46,6 @@ include_weapons()
     include_weapon("china_lake_zm");
     include_weapon("crossbow_explosive_zm");
     include_weapon("knife_ballistic_zm");
-    //include_weapon("knife_ballistic_bowie_zm", false);
     include_weapon("ray_gun_zm");
     include_weapon("thundergun_zm");
     include_weapon("mp40_zm");
@@ -64,14 +63,12 @@ include_weapons()
     include_weapon("galil_upgraded_zm", false);
     include_weapon("commando_upgraded_zm", false);
     include_weapon("fnfal_upgraded_zm", false);
-    //include_weapon("dragunov_upgraded_zm", false);
     include_weapon("l96a1_upgraded_zm", false);
     include_weapon("rpk_upgraded_zm", false);
     include_weapon("hk21_upgraded_zm", false);
     include_weapon("m72_law_upgraded_zm", false);
     include_weapon("china_lake_upgraded_zm", false);
     include_weapon("crossbow_explosive_upgraded_zm", false);
-    //include_weapon("knife_ballistic_upgraded_zm", false);
     include_weapon("knife_ballistic_bowie_upgraded_zm", false);
     include_weapon("ray_gun_upgraded_zm", false );
     include_weapon("thundergun_upgraded_zm", false);

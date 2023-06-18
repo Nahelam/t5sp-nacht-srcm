@@ -146,18 +146,5 @@ pistol_rank_setuup()
 {
     flag_init("_start_zm_pistol_rank");
     flag_wait("all_players_connected");
-
-    /*
-    players = GetPlayers();
-    if ( players.size == 1 )
-    {
-        solo = true;
-        flag_set( "solo_game" );
-        level.solo_lives_given = 0;
-        players[0].lives = 0;
-        level maps\_zombiemode::zombiemode_solo_last_stand_pistol();
-    }
-    */
-
     flag_set( "_start_zm_pistol_rank" );
 }
