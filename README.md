@@ -18,12 +18,14 @@ You are stuck in the spawn room of Nacht Der Untoten, you won't be able to go up
 - Mule kick has been replaced with speed cola, unlocks round 10
 - Added Pack-A-Punch (with custom fx to make upgrading looks more real), unlocks round 15
 - Can buy grenades on the wall (must jump)
-- The two default wall weapons are randomized every game (except sawed-off)
+- The two wall weapons are randomized every game (except sawed-off)
 - Other wall weapons are available in the box
 - Included mp40
 - Upgraing ballistic knife will give you its bowie variant
 - Cool vision
 - Alcohol
+
+NOTE: WaW weapons cannot be upgraded because the map doesn't have them.
 
 ## Installation
 
