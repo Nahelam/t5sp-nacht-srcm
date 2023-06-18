@@ -25,12 +25,15 @@ You are stuck in the spawn room of Nacht Der Untoten, you won't be able to go up
 - Cool vision
 - Alcohol
 
-![Screenshot 1](img1.png)
-![Screenshot 2](img2.png)
-![Screenshot 3](img3.png)
-
 ## Installation
 
 Download the [latest release](https://github.com/Nahelam/t5sp-nacht-srcm/releases/latest/), extract the ZIP archive content to the T5 storage folder of your dedicated server and you're good to go.
 
 Default T5 storage folder on Windows: `%LOCALAPPDATA%\Plutonium\storage\t5`
+
+
+## Screenshots
+
+![Screenshot 1](img1.png)
+![Screenshot 2](img2.png)
+![Screenshot 3](img3.png)
