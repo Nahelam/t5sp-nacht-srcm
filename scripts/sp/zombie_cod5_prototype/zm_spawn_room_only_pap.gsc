@@ -3,12 +3,12 @@
 main()
 {
     PrecacheModel("collision_geo_128x128x10");
+    packapunch_machine_setup();
     ReplaceFunc(maps\_zombiemode_perks::third_person_weapon_upgrade, ::third_person_weapon_upgrade);
 }
 
 init()
 {
-    packapunch_machine_setup();
     packapunch_machine_disable();
 }
 
@@ -168,6 +168,6 @@ packapunch_machine_enable()
 {
     level.packapunch_machine notify("packapunch_machine_enable");
     level.packapunch_machine SetCursorHint("HINT_NOICON");
-    thread packapunch_machine_fx_think();
+    level thread packapunch_machine_fx_think();
     level notify("Pack_A_Punch_on");
 }
