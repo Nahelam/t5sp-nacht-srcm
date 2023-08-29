@@ -21,11 +21,11 @@ You are stuck in the spawn room of Nacht Der Untoten, you won't be able to go up
 - The two wall weapons are randomized every game (except sawed-off)
 - Other wall weapons are available in the box
 - Included mp40
-- Upgraing ballistic knife will give you its bowie variant
+- Upgrading ballistic knife will give you its bowie variant
 - Cool vision
 - Alcohol
 
-NOTE: WaW weapons cannot be upgraded because the map doesn't have them.
+NOTE: WaW weapons cannot be upgraded because the map doesn't have their upgraded variants.
 
 ## Installation
 
