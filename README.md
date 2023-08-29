@@ -12,6 +12,8 @@ You are stuck in the spawn room of Nacht Der Untoten, you won't be able to go up
 - No barriers
 - No carpenter
 - Instant fast zombies
+- Risers (round 7)
+- Crawlers coming from the door (round 12)
 - Box moved to spawn room, unlocks at round 5
 - Weapon cabinet moved to spawn room, the sniper inside it will always one hit kill if headshot
 - Radio moved to spawn room
