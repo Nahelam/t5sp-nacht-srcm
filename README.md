@@ -38,8 +38,8 @@ Default T5 storage folder on Windows: `%LOCALAPPDATA%\Plutonium\storage\t5`
 
 ## Screenshots
 
-![Screenshot 1](img1.png)
-![Screenshot 2](img2.png)
-![Screenshot 3](img3.png)
-![Screenshot 4](img4.png)
-![Screenshot 5](img5.png)
+![Screenshot 1](https://github.com/Nahelam/t5sp-nacht-srcm/assets/128867759/24517403-cc2d-4300-8762-4b2a3d9bae7e)
+![Screenshot 2](https://github.com/Nahelam/t5sp-nacht-srcm/assets/128867759/be3ed591-043f-4edf-a24e-e58163e5ec2a)
+![Screenshot 3](https://github.com/Nahelam/t5sp-nacht-srcm/assets/128867759/c27124e0-2393-40b8-ad48-5471109f729d)
+![Screenshot 4](https://github.com/Nahelam/t5sp-nacht-srcm/assets/128867759/c6f0be31-cc02-4249-b76f-856fdefff6d3)
+![Screenshot 5](https://github.com/Nahelam/t5sp-nacht-srcm/assets/128867759/3e77a6ff-8daa-4216-9c3d-41a500058eb4)
