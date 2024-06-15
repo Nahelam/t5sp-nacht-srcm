@@ -266,7 +266,7 @@ ammo_drop_watch()
     {
         level waittill("start_of_round");
 
-        if ((level.round_number % 3) == 0)
+        if ((level.round_number % 2) == 0)
         {
             level thread maps\_zombiemode_powerups::specific_powerup_drop("full_ammo", (-168, -834, 4));
         }
